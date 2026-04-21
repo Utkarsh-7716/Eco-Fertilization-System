@@ -62,3 +62,17 @@ python app.py
 cd frontend
 npm install
 npm run dev
+
+
+Create a .env file and add your WeatherAPI key:
+VITE_API_KEY=your_api_key_here
+
+
+## 📦 Model Files
+
+Due to GitHub size limits, trained model files are not included.
+
+Download models from:
+👉 https://your-google-drive-link
+
+Place them inside the `app/` folder before running the project.
