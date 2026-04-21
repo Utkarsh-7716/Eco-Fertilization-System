@@ -66,3 +66,21 @@ npm run dev
 
 Create a .env file and add your WeatherAPI key:
 VITE_API_KEY=your_api_key_here
+
+
+
+## 📦 Model Files
+
+Due to GitHub size limits, trained model files are not included.
+
+Download models from:
+👉 ## 📦 Model Files
+
+Due to GitHub size limits, trained model files are not included.
+
+Download models from:
+👉 https://drive.google.com/drive/folders/1R1-4Abb7ifZxudLS-hYLOaG-UN22QACS?usp=drive_link
+
+Place them inside the `app/` folder before running the project.
+
+Place them inside the `app/` folder before running the project.
